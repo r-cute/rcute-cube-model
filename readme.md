@@ -1,4 +1,4 @@
-# 3d model for [rcute-cube](https://github.com/r-cube/rcute-cube)
+# 3d model for [rcute-cube](https://github.com/r-cute/rcute-cube)
 
 ## License
 
